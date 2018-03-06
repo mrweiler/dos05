@@ -1,0 +1,80 @@
+---
+title: <small>Digital open scientist's toolbox Part II</small>
+author: <small>Matthias Weiler</small>
+date: <small>07.03.2018</small>
+output:
+  revealjs::revealjs_presentation:
+    theme: black
+    center: TRUE
+    self_contained: FALSE
+    incremental: TRUE
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      chalkboard: 
+      readonly: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# <small> What did we do last <s>week</s> Saturday?</small>
+
+----
+
+Any questions or anything to add?
+
+# <small>Last <s>week's</s> Saturday's homework</small>
+
+----
+
+Who of you started planning <br>
+your research project?
+
+----
+
+Who of you is not listed as <br>
+a contributor of the <br>
+research projects in OSF ?
+
+----
+
+Any questions regarding <br>
+last Saturday's homework?
+
+# <small>Today:<br>Digital open scientist's toolbox Part II</small>
+
+
+# <small>Preview: next week</small>
+
+----
+
+"Prepare your proposal presentation"  
+
+<i>Online only! No course!</i>
+
+# <small>Preview: next session</small>
+
+----
+
+On Thursday, 22nd of March
+
+----
+
+"Present and review <br>
+your research proposals"
+
+# <small>Homework</small>
+
+----
+
+If you haven't: <br>
+start planning your research projects
+
+----
+
+Prepare your presentations
+
+# <small>Any questions?</small>
+
+# <small>Thank you for your attention</small>
