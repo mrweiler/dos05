@@ -1,5 +1,5 @@
 ---
-title: <small>Digital open scientist's toolbox Part II</small>
+title: <small>An introduction to digital open <br>research in clinical psychology</small>
 author: <small>Matthias Weiler</small>
 date: <small>07.03.2018</small>
 output:
@@ -19,6 +19,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # <small> What did we do last <s>week</s> Saturday?</small>
+
+----
+
+We talked about your <br>
+personal open science projects
+
+----
+
+Then we set up rules on how to <br>
+choose the four "best" projects
+
+----
+
+And we finally decided how <br>
+to build the project groups
 
 ----
 
@@ -44,6 +59,70 @@ last Saturday's homework?
 
 # <small>Today:<br>Digital open scientist's toolbox Part II</small>
 
+# <small>Basic ideas for the toolbox</small>
+
+----
+
+Be transparent towards <br>
+others and yourself
+
+----
+
+Be open towards <br>
+others and yourself
+
+----
+
+Focus on the process <br>
+not only the results
+
+# <small>The toolbox</small>
+
+----
+
+## <small>Start here</small>
+
+<a href = "https://www.google.com/intl/en_us/slides/about/">Google Slides</a>
+
+----
+
+## <small>Get some ideas</small>
+
+<a href = "https://expfactory.github.io/experiments/">The Experiment Factory</a>
+
+----
+
+## <small>Look for literature</small>
+
+<a href = "https://scholar.google.com/">Google Scholar</a>
+
+----
+
+## <small>Save your literature</small>
+
+<a href = "https://www.zotero.org/">Zotero</a>
+
+----
+
+## <small>Plan your data analysis</small>
+
+<a href = "https://www.rstudio.com/">RStudio</a>
+
+----
+
+## <small>Save your data analysis plans</small>
+
+<a href = "https://github.com/">GitHub</a>
+
+----
+
+## <small>Put it all together</small>
+
+<a href = "https://osf.io/">The OSF</a>
+
+----
+
+Any questions?
 
 # <small>Preview: next week</small>
 
@@ -51,7 +130,7 @@ last Saturday's homework?
 
 "Prepare your proposal presentation"  
 
-<i>Online only! No course!</i>
+<i>No course!</i>
 
 # <small>Preview: next session</small>
 
